@@ -138,3 +138,15 @@ Task scope: Limited to factual recall (no reasoning, math word problems, or open
 Hardware constraints: 7B-IT required reduced token budget (8 vs 16) on free Colab
 
 Dataset size: 100 questions provides initial signal but larger sets needed for statistical significance
+
+### Citation
+@misc{gemma_benchmark_2026,
+  author = {Kanishq Gandharv},
+  title = {Gemma Model Comparison: Factual QA Benchmark},
+  year = {2026},
+  publisher = {GitHub},
+  url = {https://github.com/KanishqGandharv219/gemma-mini-benchmark}
+}
+
+### License
+MIT License - See LICENSE file for details
