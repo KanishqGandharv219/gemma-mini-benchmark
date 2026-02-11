@@ -1,0 +1,8 @@
+{
+  "model": "google/gemma-7b-it",
+  "label": "gemma7b_it_fp16",
+  "quantization": "none (fp16)",
+  "total_questions": 100,
+  "correct": 69,
+  "accuracy": 0.69
+}

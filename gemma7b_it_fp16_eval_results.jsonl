@@ -1,0 +1,100 @@
+{"question": "What is the capital of France?", "gold_answer": "Paris", "predicted": "What is the capital of France?\n\nThe answer is Paris.\n\nIs", "correct": true}
+{"question": "What is the capital of Japan?", "gold_answer": "Tokyo", "predicted": "What is the capital of Japan?\n\nThe answer is Tokyo.\n\nThis", "correct": true}
+{"question": "What is the capital of Italy?", "gold_answer": "Rome", "predicted": "What is the capital of Italy?\n\nThe answer is Rome.\n\nRome", "correct": true}
+{"question": "What is the capital of Germany?", "gold_answer": "Berlin", "predicted": "What is the capital of Germany?\n\nThe answer is Berlin.\n\nBerlin", "correct": true}
+{"question": "What is the capital of Canada?", "gold_answer": "Ottawa", "predicted": "What is the capital of Canada?\n\nOttawa.\nToronto.\nMontreal", "correct": true}
+{"question": "What is the capital of Australia?", "gold_answer": "Canberra", "predicted": "What is the capital of Australia?\n\nThe answer is Canberra.\n\nCan", "correct": true}
+{"question": "What is the capital of Brazil?", "gold_answer": "Brasília", "predicted": "What is the capital of Brazil?\n\nThe answer is Rio de Janeiro.", "correct": false}
+{"question": "What is the capital of India?", "gold_answer": "New Delhi", "predicted": "What is the capital of India?\n\nThe answer is Delhi.\n\nDelhi", "correct": false}
+{"question": "What is the capital of Russia?", "gold_answer": "Moscow", "predicted": "What is the capital of Russia?\n\nThe answer is Moscow.\n\nIs", "correct": true}
+{"question": "What is the capital of Egypt?", "gold_answer": "Cairo", "predicted": "What is the capital of Egypt?\n\nThe answer is Cairo.\n\nCan", "correct": true}
+{"question": "What is the largest ocean on Earth?", "gold_answer": "Pacific Ocean", "predicted": "What is the largest ocean on Earth?\n\nThe answer is: Pacific Ocean.", "correct": true}
+{"question": "What is the smallest continent?", "gold_answer": "Australia", "predicted": "What is the smallest continent?\n\nThe answer is Australia.\n\nThis", "correct": true}
+{"question": "How many continents are there?", "gold_answer": "7", "predicted": "How many continents are there?\n\na. 1\nb.", "correct": false}
+{"question": "What is the longest river in the world?", "gold_answer": "Nile", "predicted": "What is the longest river in the world?\n\nThe answer is the Yangtze River", "correct": false}
+{"question": "What is the highest mountain in the world?", "gold_answer": "Mount Everest", "predicted": "What is the highest mountain in the world?\n\nThe answer is Mount Everest.\n\n", "correct": true}
+{"question": "What is 2 + 2?", "gold_answer": "4", "predicted": "What is 2 + 2?\n\nThe answer is 4.\n\n", "correct": true}
+{"question": "What is 5 * 6?", "gold_answer": "30", "predicted": "What is 5 * 6?\n\nThe answer is 30.", "correct": true}
+{"question": "What is 100 - 37?", "gold_answer": "63", "predicted": "What is 100 - 37?\n\nThe answer is 63.", "correct": true}
+{"question": "What is 144 / 12?", "gold_answer": "12", "predicted": "What is 144 / 12?\n\nThe answer is 12.", "correct": true}
+{"question": "What is the square root of 64?", "gold_answer": "8", "predicted": "What is the square root of 64?\n\nThe answer is 8.\n\n", "correct": true}
+{"question": "What is 15% of 200?", "gold_answer": "30", "predicted": "What is 15% of 200?\n\nSure, here is the calculation:", "correct": false}
+{"question": "What is the smallest prime number?", "gold_answer": "2", "predicted": "What is the smallest prime number?\n\nThe answer is 2.\n\n", "correct": true}
+{"question": "What is the next prime number after 7?", "gold_answer": "11", "predicted": "What is the next prime number after 7?\n\nThe answer is 11.", "correct": true}
+{"question": "What is 2 to the power of 5?", "gold_answer": "32", "predicted": "What is 2 to the power of 5?\n\n2^5 = 32", "correct": true}
+{"question": "What is the value of pi rounded to 2 decimal places?", "gold_answer": "3.14", "predicted": "What is the value of pi rounded to 2 decimal places?\n\nThe value of pi rounded to ", "correct": false}
+{"question": "How many sides does a hexagon have?", "gold_answer": "6", "predicted": "How many sides does a hexagon have?\n\nThe answer is 6.\n\n", "correct": true}
+{"question": "What is 1/4 as a decimal?", "gold_answer": "0.25", "predicted": "What is 1/4 as a decimal?\n\nThe answer is 0.2", "correct": false}
+{"question": "What is 20% of 50?", "gold_answer": "10", "predicted": "What is 20% of 50?\n\nThe answer is 10.", "correct": true}
+{"question": "What is the cube of 3?", "gold_answer": "27", "predicted": "What is the cube of 3?\n\nThe cube of 3 is ", "correct": false}
+{"question": "What is the sum of angles in a triangle?", "gold_answer": "180", "predicted": "What is the sum of angles in a triangle?\n\nThe answer is 180", "correct": true}
+{"question": "What is the chemical symbol for water?", "gold_answer": "H2O", "predicted": "What is the chemical symbol for water?\n\nSure, the answer is H₂", "correct": false}
+{"question": "What is the chemical symbol for gold?", "gold_answer": "Au", "predicted": "What is the chemical symbol for gold?\n\nAu\n\nAg\n\nCu\n\nZn", "correct": true}
+{"question": "What is the chemical symbol for oxygen?", "gold_answer": "O", "predicted": "What is the chemical symbol for oxygen?\n\nSure, the answer is O.", "correct": true}
+{"question": "What is the chemical symbol for carbon?", "gold_answer": "C", "predicted": "What is the chemical symbol for carbon?\n\nSure, the answer is C.", "correct": true}
+{"question": "What is the speed of light in vacuum (in m/s)?", "gold_answer": "299792458", "predicted": "What is the speed of light in vacuum (in m/s)?\n\nThe speed of light in vacuum is", "correct": false}
+{"question": "What is the largest planet in our solar system?", "gold_answer": "Jupiter", "predicted": "What is the largest planet in our solar system?\n\na. Earth\nb. Mars", "correct": false}
+{"question": "What is the smallest planet in our solar system?", "gold_answer": "Mercury", "predicted": "What is the smallest planet in our solar system?\n\na. Mercury\nb. Venus", "correct": true}
+{"question": "How many planets are in our solar system?", "gold_answer": "8", "predicted": "How many planets are in our solar system?\n\nA. 4\nB.", "correct": false}
+{"question": "What is the closest planet to the Sun?", "gold_answer": "Mercury", "predicted": "What is the closest planet to the Sun?\n\na. Earth\nb. Mars", "correct": false}
+{"question": "What gas do plants absorb from the atmosphere?", "gold_answer": "Carbon dioxide", "predicted": "What gas do plants absorb from the atmosphere?\nSure, the answer is carbon dioxide", "correct": true}
+{"question": "What gas do plants release during photosynthesis?", "gold_answer": "Oxygen", "predicted": "What gas do plants release during photosynthesis?\n\nThe answer is oxygen.\n\nPlants", "correct": true}
+{"question": "What is the powerhouse of the cell?", "gold_answer": "Mitochondria", "predicted": "What is the powerhouse of the cell?\n\nThe answer is the mitochondria.\n\n", "correct": true}
+{"question": "What is DNA an abbreviation for?", "gold_answer": "Deoxyribonucleic acid", "predicted": "What is DNA an abbreviation for?\n\nThe answer is Deoxyribonucleic", "correct": false}
+{"question": "What is the hardest natural substance on Earth?", "gold_answer": "Diamond", "predicted": "What is the hardest natural substance on Earth?\n\nThe answer is diamond.\n\nDiamond", "correct": true}
+{"question": "What is the boiling point of water at sea level in Celsius?", "gold_answer": "100", "predicted": "What is the boiling point of water at sea level in Celsius?\n\nThe answer is 100", "correct": true}
+{"question": "What is the freezing point of water in Celsius?", "gold_answer": "0", "predicted": "What is the freezing point of water in Celsius?\n\nThe answer is 0°C", "correct": true}
+{"question": "How many bones are in the adult human body?", "gold_answer": "206", "predicted": "How many bones are in the adult human body?\n\nThe answer is 206", "correct": true}
+{"question": "What is the largest organ in the human body?", "gold_answer": "Skin", "predicted": "What is the largest organ in the human body?\n\nThe answer is skin.\n\nThe", "correct": true}
+{"question": "What force keeps us on the ground?", "gold_answer": "Gravity", "predicted": "What force keeps us on the ground?\n\nThe answer is gravity.\n\nGravity", "correct": true}
+{"question": "What is the atomic number of hydrogen?", "gold_answer": "1", "predicted": "What is the atomic number of hydrogen?\n\nSure, the answer is 1", "correct": true}
+{"question": "What year did World War 2 end?", "gold_answer": "1945", "predicted": "What year did World War 2 end?\n\nThe answer is 194", "correct": false}
+{"question": "What year did World War 1 start?", "gold_answer": "1914", "predicted": "What year did World War 1 start?\n\nThe answer is 191", "correct": false}
+{"question": "Who was the first President of the United States?", "gold_answer": "George Washington", "predicted": "Who was the first President of the United States?\n\nGeorge Washington\n\nThomas Jefferson\n\nBenjamin", "correct": true}
+{"question": "In what year did the Titanic sink?", "gold_answer": "1912", "predicted": "In what year did the Titanic sink?\n\nThe answer is 191", "correct": false}
+{"question": "Who discovered America in 1492?", "gold_answer": "Christopher Columbus", "predicted": "Who discovered America in 1492?\n\nChristopher Columbus discovered America in 1", "correct": true}
+{"question": "What year did the Berlin Wall fall?", "gold_answer": "1989", "predicted": "What year did the Berlin Wall fall?\n\nThe answer is 198", "correct": false}
+{"question": "What year did India gain independence?", "gold_answer": "1947", "predicted": "What year did India gain independence?\n\nThe answer is 194", "correct": false}
+{"question": "Who was the first man on the moon?", "gold_answer": "Neil Armstrong", "predicted": "Who was the first man on the moon?\n\nNeil Armstrong\n\nThe answer is Neil", "correct": true}
+{"question": "What year did humans first land on the moon?", "gold_answer": "1969", "predicted": "What year did humans first land on the moon?\n\nThe answer is 196", "correct": false}
+{"question": "What ancient wonder is located in Egypt?", "gold_answer": "Pyramids", "predicted": "What ancient wonder is located in Egypt?\n\nThe answer is the Great Pyramid of", "correct": false}
+{"question": "What year did the French Revolution begin?", "gold_answer": "1789", "predicted": "What year did the French Revolution begin?\n\nThe answer is 178", "correct": false}
+{"question": "Who invented the telephone?", "gold_answer": "Alexander Graham Bell", "predicted": "Who invented the telephone?\n\nAlexander Graham Bell invented the telephone in", "correct": true}
+{"question": "Who invented the light bulb?", "gold_answer": "Thomas Edison", "predicted": "Who invented the light bulb?\n\nThe answer is Thomas Edison.\n\n", "correct": true}
+{"question": "What year did the American Civil War end?", "gold_answer": "1865", "predicted": "What year did the American Civil War end?\n\nThe answer is 186", "correct": false}
+{"question": "What ancient civilization built Machu Picchu?", "gold_answer": "Inca", "predicted": "What ancient civilization built Machu Picchu?\n\nThe answer is the Inca Empire.", "correct": true}
+{"question": "Who wrote Romeo and Juliet?", "gold_answer": "Shakespeare", "predicted": "Who wrote Romeo and Juliet?\n\nThe answer is William Shakespeare.\n\n", "correct": true}
+{"question": "Who wrote Hamlet?", "gold_answer": "Shakespeare", "predicted": "Who wrote Hamlet?\n\nThe answer is William Shakespeare.\n\n", "correct": true}
+{"question": "Who wrote 1984?", "gold_answer": "George Orwell", "predicted": "Who wrote 1984?\n\nGeorge Orwell wrote 198", "correct": true}
+{"question": "Who wrote Pride and Prejudice?", "gold_answer": "Jane Austen", "predicted": "Who wrote Pride and Prejudice?\n\nThe novel Pride and Prejudice was written", "correct": false}
+{"question": "Who wrote The Great Gatsby?", "gold_answer": "F. Scott Fitzgerald", "predicted": "Who wrote The Great Gatsby?\n\nThe answer is F. Scott Fitzgerald", "correct": true}
+{"question": "Who wrote Moby Dick?", "gold_answer": "Herman Melville", "predicted": "Who wrote Moby Dick?\n\nA) Herman Melville\nB)", "correct": true}
+{"question": "Who wrote To Kill a Mockingbird?", "gold_answer": "Harper Lee", "predicted": "Who wrote To Kill a Mockingbird?\n\nThe novel To Kill a Mockingbird", "correct": false}
+{"question": "Who wrote Harry Potter?", "gold_answer": "J.K. Rowling", "predicted": "Who wrote Harry Potter?\n\nThe answer is: J.K", "correct": false}
+{"question": "Who wrote The Odyssey?", "gold_answer": "Homer", "predicted": "Who wrote The Odyssey?\n\nThe answer is: Homer.\n\n", "correct": true}
+{"question": "Who wrote The Iliad?", "gold_answer": "Homer", "predicted": "Who wrote The Iliad?\n\nThe Iliad is an epic poem written", "correct": false}
+{"question": "Who wrote Macbeth?", "gold_answer": "Shakespeare", "predicted": "Who wrote Macbeth?\n\nThe answer is William Shakespeare.\n\n", "correct": true}
+{"question": "Who wrote The Divine Comedy?", "gold_answer": "Dante", "predicted": "Who wrote The Divine Comedy?\n\nThe answer is Dante Alighieri", "correct": true}
+{"question": "Who wrote War and Peace?", "gold_answer": "Leo Tolstoy", "predicted": "Who wrote War and Peace?\n\nThe answer is: Leo Tolstoy.", "correct": true}
+{"question": "Who wrote Crime and Punishment?", "gold_answer": "Fyodor Dostoevsky", "predicted": "Who wrote Crime and Punishment?\n\nThe novel Crime and Punishment was written", "correct": false}
+{"question": "Who wrote The Lord of the Rings?", "gold_answer": "J.R.R. Tolkien", "predicted": "Who wrote The Lord of the Rings?\n\nThe answer is: J.R", "correct": false}
+{"question": "How many days are in a leap year?", "gold_answer": "366", "predicted": "How many days are in a leap year?\n\nThe answer is 29.", "correct": false}
+{"question": "How many hours are in a day?", "gold_answer": "24", "predicted": "How many hours are in a day?\n\nThe answer is 24 hours", "correct": true}
+{"question": "How many minutes are in an hour?", "gold_answer": "60", "predicted": "How many minutes are in an hour?\n\nThe answer is 60 minutes", "correct": true}
+{"question": "How many seconds are in a minute?", "gold_answer": "60", "predicted": "How many seconds are in a minute?\n\nThe answer is 60 seconds", "correct": true}
+{"question": "How many weeks are in a year?", "gold_answer": "52", "predicted": "How many weeks are in a year?\n\nThe answer is 52.", "correct": true}
+{"question": "How many months are in a year?", "gold_answer": "12", "predicted": "How many months are in a year?\n\nThe answer is 12 months", "correct": true}
+{"question": "What color is the sky on a clear day?", "gold_answer": "Blue", "predicted": "What color is the sky on a clear day?\n\nThe answer is blue.\n\nThe", "correct": true}
+{"question": "What is the opposite of hot?", "gold_answer": "Cold", "predicted": "What is the opposite of hot?\n\nThe answer is cold.\n\nHot", "correct": true}
+{"question": "What animal is known as man's best friend?", "gold_answer": "Dog", "predicted": "What animal is known as man's best friend?\n\nThe answer is a dog.\n\n", "correct": true}
+{"question": "What is the largest land animal?", "gold_answer": "Elephant", "predicted": "What is the largest land animal?\n\nThe answer is: elephant.\n\n", "correct": true}
+{"question": "What is the fastest land animal?", "gold_answer": "Cheetah", "predicted": "What is the fastest land animal?\n\nThe answer is cheetah.\n\nThe", "correct": true}
+{"question": "What bird is known for its ability to mimic human speech?", "gold_answer": "Parrot", "predicted": "What bird is known for its ability to mimic human speech?\n\nThe answer is: African Grey Parrot", "correct": true}
+{"question": "How many legs does a spider have?", "gold_answer": "8", "predicted": "How many legs does a spider have?\n\nThe answer is 8 legs.", "correct": true}
+{"question": "How many legs does an insect have?", "gold_answer": "6", "predicted": "How many legs does an insect have?\n\nThe answer is 6 legs.", "correct": true}
+{"question": "What is the largest mammal in the world?", "gold_answer": "Blue whale", "predicted": "What is the largest mammal in the world?\n\nThe answer is: Blue whale.", "correct": true}
+{"question": "What is the tallest animal in the world?", "gold_answer": "Giraffe", "predicted": "What is the tallest animal in the world?\n\nThe answer is the giraffe.\n\n", "correct": true}
+{"question": "What do bees produce?", "gold_answer": "Honey", "predicted": "What do bees produce?\n\nThe answer is honey.\n\nBees", "correct": true}
+{"question": "What is the name of the fairy tale character who left a glass slipper?", "gold_answer": "Cinderella", "predicted": "What is the name of the fairy tale character who left a glass slipper?\n\nCinderella.\n\nThe answer is Cinderella", "correct": true}
+{"question": "What fruit is associated with keeping doctors away?", "gold_answer": "Apple", "predicted": "What fruit is associated with keeping doctors away?\n\nThe answer is orange.\n\nOrange", "correct": false}
+{"question": "What vegetable makes you cry when you cut it?", "gold_answer": "Onion", "predicted": "What vegetable makes you cry when you cut it?\n\nThe answer is onion.\n\nWhen", "correct": true}

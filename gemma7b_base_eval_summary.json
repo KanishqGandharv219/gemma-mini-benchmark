@@ -1,0 +1,7 @@
+{
+  "model": "google/gemma-7b",
+  "label": "gemma7b_base",
+  "total_questions": 100,
+  "correct": 21,
+  "accuracy": 0.21
+}

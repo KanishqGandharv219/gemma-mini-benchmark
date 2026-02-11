@@ -1,0 +1,100 @@
+{"question": "What is the capital of France?", "gold_answer": "Paris", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the capital of Japan?", "gold_answer": "Tokyo", "predicted": "The capital of Japan is Tokyo.\n\nYou are a helpful assistant. Answer the", "correct": true}
+{"question": "What is the capital of Italy?", "gold_answer": "Rome", "predicted": "$\\rule{6cm}{0.15mm}$\n\nComplete the sentence", "correct": false}
+{"question": "What is the capital of Germany?", "gold_answer": "Berlin", "predicted": "_________________________________________\n\nStep 1\n1 of 2\n\nThe capital", "correct": false}
+{"question": "What is the capital of Canada?", "gold_answer": "Ottawa", "predicted": "The capital of Canada is __________.\n\nYou are a helpful assistant. Answer the", "correct": false}
+{"question": "What is the capital of Australia?", "gold_answer": "Canberra", "predicted": "The capital of Australia is Canberra.\n\nYou are a helpful assistant. Answer the", "correct": true}
+{"question": "What is the capital of Brazil?", "gold_answer": "Brasília", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the capital of India?", "gold_answer": "New Delhi", "predicted": "The capital of India is New Delhi.\n\nYou are a helpful assistant. Answer", "correct": true}
+{"question": "What is the capital of Russia?", "gold_answer": "Moscow", "predicted": "The capital of Russia is Moscow.\n\nYou are a helpful assistant. Answer the", "correct": true}
+{"question": "What is the capital of Egypt?", "gold_answer": "Cairo", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the largest ocean on Earth?", "gold_answer": "Pacific Ocean", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the smallest continent?", "gold_answer": "Australia", "predicted": "$\\rule{6cm}{0.15mm} $\n\nStep", "correct": false}
+{"question": "How many continents are there?", "gold_answer": "7", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the longest river in the world?", "gold_answer": "Nile", "predicted": "_________________________________________________________________________________\n\nStep 1\n1 of 2", "correct": false}
+{"question": "What is the highest mountain in the world?", "gold_answer": "Mount Everest", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is 2 + 2?", "gold_answer": "4", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is 5 * 6?", "gold_answer": "30", "predicted": "You are a helpful assistant. Answer the following question in one short phrase.", "correct": false}
+{"question": "What is 100 - 37?", "gold_answer": "63", "predicted": "63\n\nStep 1\n1. Open the calculator.\n2", "correct": true}
+{"question": "What is 144 / 12?", "gold_answer": "12", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the square root of 64?", "gold_answer": "8", "predicted": "$\\sqrt{64}=$\n\nStep 1\n1 of 2", "correct": false}
+{"question": "What is 15% of 200?", "gold_answer": "30", "predicted": "The following table shows the common-size financial statements for three companies in", "correct": false}
+{"question": "What is the smallest prime number?", "gold_answer": "2", "predicted": "$2$\n\nStep 1\n1. Write the prime factorization of $", "correct": true}
+{"question": "What is the next prime number after 7?", "gold_answer": "11", "predicted": "You are a helpful assistant. Answer the following question in one short phrase.", "correct": false}
+{"question": "What is 2 to the power of 5?", "gold_answer": "32", "predicted": "You are a helpful assistant. Answer the following question in one short phrase.", "correct": false}
+{"question": "What is the value of pi rounded to 2 decimal places?", "gold_answer": "3.14", "predicted": "The value of pi rounded to 2 decimal places is 3.14", "correct": true}
+{"question": "How many sides does a hexagon have?", "gold_answer": "6", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": true}
+{"question": "What is 1/4 as a decimal?", "gold_answer": "0.25", "predicted": "You are a helpful assistant. Answer the following question in one short phrase.", "correct": false}
+{"question": "What is 20% of 50?", "gold_answer": "10", "predicted": "The following table shows the common-size financial statements for six companies in the", "correct": false}
+{"question": "What is the cube of 3?", "gold_answer": "27", "predicted": "$\\rule{6cm}{0.2pt}$\n\nStep 1", "correct": false}
+{"question": "What is the sum of angles in a triangle?", "gold_answer": "180", "predicted": "_____________________________.\n\nStep 1\n1 of 2\n\nThe sum", "correct": false}
+{"question": "What is the chemical symbol for water?", "gold_answer": "H2O", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the chemical symbol for gold?", "gold_answer": "Au", "predicted": "$\\rule{4cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the chemical symbol for oxygen?", "gold_answer": "O", "predicted": "$\\rule{4cm}{0.2pt}$\n\nStep 1", "correct": false}
+{"question": "What is the chemical symbol for carbon?", "gold_answer": "C", "predicted": "$\\rule{4cm}{0.15mm}$\n\nStep 1", "correct": true}
+{"question": "What is the speed of light in vacuum (in m/s)?", "gold_answer": "299792458", "predicted": "The speed of light in vacuum is $3.0 \\times 10", "correct": false}
+{"question": "What is the largest planet in our solar system?", "gold_answer": "Jupiter", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the smallest planet in our solar system?", "gold_answer": "Mercury", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "How many planets are in our solar system?", "gold_answer": "8", "predicted": "There are eight planets in our solar system.\n\nShow more\nStep 1", "correct": false}
+{"question": "What is the closest planet to the Sun?", "gold_answer": "Mercury", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What gas do plants absorb from the atmosphere?", "gold_answer": "Carbon dioxide", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What gas do plants release during photosynthesis?", "gold_answer": "Oxygen", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the powerhouse of the cell?", "gold_answer": "Mitochondria", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is DNA an abbreviation for?", "gold_answer": "Deoxyribonucleic acid", "predicted": "DNA is the abbreviation for deoxyribonucleic acid.", "correct": true}
+{"question": "What is the hardest natural substance on Earth?", "gold_answer": "Diamond", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the boiling point of water at sea level in Celsius?", "gold_answer": "100", "predicted": "__________\n\nStep 1/2\nThe boiling point of water at sea level", "correct": false}
+{"question": "What is the freezing point of water in Celsius?", "gold_answer": "0", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": true}
+{"question": "How many bones are in the adult human body?", "gold_answer": "206", "predicted": "$\\rule{8cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the largest organ in the human body?", "gold_answer": "Skin", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What force keeps us on the ground?", "gold_answer": "Gravity", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the atomic number of hydrogen?", "gold_answer": "1", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": true}
+{"question": "What year did World War 2 end?", "gold_answer": "1945", "predicted": "____________________________________________________________________________________\n\nStep 1\n1 of 2", "correct": false}
+{"question": "What year did World War 1 start?", "gold_answer": "1914", "predicted": "The war started in 1914.\n\nYou are a helpful assistant", "correct": true}
+{"question": "Who was the first President of the United States?", "gold_answer": "George Washington", "predicted": "$\\rule{6cm}{0.15mm}$\n\nComplete the sentence", "correct": false}
+{"question": "In what year did the Titanic sink?", "gold_answer": "1912", "predicted": "-The Titanic sank in 1912.\n-The Titanic sank", "correct": true}
+{"question": "Who discovered America in 1492?", "gold_answer": "Christopher Columbus", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What year did the Berlin Wall fall?", "gold_answer": "1989", "predicted": "-It fell in 1989.\n-It fell in", "correct": true}
+{"question": "What year did India gain independence?", "gold_answer": "1947", "predicted": "_________\n\nStep 1\n1. What is the question?\n2.", "correct": false}
+{"question": "Who was the first man on the moon?", "gold_answer": "Neil Armstrong", "predicted": "- ___________________________ -\n\nStep 1\n1 of 2\n\nThe", "correct": false}
+{"question": "What year did humans first land on the moon?", "gold_answer": "1969", "predicted": "$[-]$\n\nStep 1\n1. What is the question?\n2", "correct": false}
+{"question": "What ancient wonder is located in Egypt?", "gold_answer": "Pyramids", "predicted": "- “Giza” is the name of the ancient wonder located in Egypt.", "correct": false}
+{"question": "What year did the French Revolution begin?", "gold_answer": "1789", "predicted": "-The French Revolution began in 1789.\n-The French", "correct": true}
+{"question": "Who invented the telephone?", "gold_answer": "Alexander Graham Bell", "predicted": "- _____________________________________________________\n- _____________________________________________________\n-", "correct": false}
+{"question": "Who invented the light bulb?", "gold_answer": "Thomas Edison", "predicted": "____________________________\n\nStep 1\n1 of 2\n\nThe answer is", "correct": false}
+{"question": "What year did the American Civil War end?", "gold_answer": "1865", "predicted": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------", "correct": false}
+{"question": "What ancient civilization built Machu Picchu?", "gold_answer": "Inca", "predicted": "- “civilización andina”\n\nStep 1\n1 of 2", "correct": false}
+{"question": "Who wrote Romeo and Juliet?", "gold_answer": "Shakespeare", "predicted": "$\\rule{6cm}{0.15mm}$\n\nWrite the letter", "correct": false}
+{"question": "Who wrote Hamlet?", "gold_answer": "Shakespeare", "predicted": "-Shakespeare-\n\nWrite the correct word in the space next to each definition.", "correct": true}
+{"question": "Who wrote 1984?", "gold_answer": "George Orwell", "predicted": "Winston Smith.\n\nYou are a helpful assistant. Answer the following question in one", "correct": false}
+{"question": "Who wrote Pride and Prejudice?", "gold_answer": "Jane Austen", "predicted": "$\\rule{6cm}{0.15mm}$\n\nComplete the sentence", "correct": false}
+{"question": "Who wrote The Great Gatsby?", "gold_answer": "F. Scott Fitzgerald", "predicted": "$\\rule{6cm}{0.15mm}$\n\nIn the following", "correct": false}
+{"question": "Who wrote Moby Dick?", "gold_answer": "Herman Melville", "predicted": "_________________________________\n\nWrite the letter for the correct definition of the italicized", "correct": false}
+{"question": "Who wrote To Kill a Mockingbird?", "gold_answer": "Harper Lee", "predicted": "_____________\n\nStep 1\n1. Who wrote To Kill a Mockingbird", "correct": false}
+{"question": "Who wrote Harry Potter?", "gold_answer": "J.K. Rowling", "predicted": "- ___________________________ -\n\nStep 1\n1 of 2\n\nThe", "correct": false}
+{"question": "Who wrote The Odyssey?", "gold_answer": "Homer", "predicted": "$\\rule{6cm}{0.15mm}$\n\nWrite the letter", "correct": false}
+{"question": "Who wrote The Iliad?", "gold_answer": "Homer", "predicted": "-Homer\n-Aeschylus\n-Virgil\n\nShow more\nStep", "correct": true}
+{"question": "Who wrote Macbeth?", "gold_answer": "Shakespeare", "predicted": "$\\rule{7cm}{.2mm}$\n\nWrite the letter for the", "correct": false}
+{"question": "Who wrote The Divine Comedy?", "gold_answer": "Dante", "predicted": "$\\rule{6cm}{0.15mm}$\n\nComplete the sentence", "correct": false}
+{"question": "Who wrote War and Peace?", "gold_answer": "Leo Tolstoy", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "Who wrote Crime and Punishment?", "gold_answer": "Fyodor Dostoevsky", "predicted": "$\\rule{6cm}{0.15mm}$\n\nShow more", "correct": false}
+{"question": "Who wrote The Lord of the Rings?", "gold_answer": "J.R.R. Tolkien", "predicted": "$\\rule{6cm}{0.15mm}$\n\nWrite the letter", "correct": false}
+{"question": "How many days are in a leap year?", "gold_answer": "366", "predicted": "__________.\n\nStep 1\n1. The question is asking for the number", "correct": false}
+{"question": "How many hours are in a day?", "gold_answer": "24", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "How many minutes are in an hour?", "gold_answer": "60", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "How many seconds are in a minute?", "gold_answer": "60", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "How many weeks are in a year?", "gold_answer": "52", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "How many months are in a year?", "gold_answer": "12", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What color is the sky on a clear day?", "gold_answer": "Blue", "predicted": "The following sentences are incorrect. Draw a line through each incorrect word and write", "correct": false}
+{"question": "What is the opposite of hot?", "gold_answer": "Cold", "predicted": "$\\rule{6cm}{.2pt}$\n\nStep 1\n1", "correct": false}
+{"question": "What animal is known as man's best friend?", "gold_answer": "Dog", "predicted": "$\\rule{6cm}{0.15mm}$\n\nComplete the sentence", "correct": false}
+{"question": "What is the largest land animal?", "gold_answer": "Elephant", "predicted": "$\\rule{6cm}{0.15mm} $\n\nStep", "correct": false}
+{"question": "What is the fastest land animal?", "gold_answer": "Cheetah", "predicted": "$\\rule{6cm}{0.15mm} $\n\nStep", "correct": false}
+{"question": "What bird is known for its ability to mimic human speech?", "gold_answer": "Parrot", "predicted": "", "correct": false}
+{"question": "How many legs does a spider have?", "gold_answer": "8", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "How many legs does an insect have?", "gold_answer": "6", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": true}
+{"question": "What is the largest mammal in the world?", "gold_answer": "Blue whale", "predicted": "$\\rule{6cm}{0.15mm} $\n\nStep", "correct": false}
+{"question": "What is the tallest animal in the world?", "gold_answer": "Giraffe", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What do bees produce?", "gold_answer": "Honey", "predicted": "$\\rule{6cm}{0.15mm}$\n\nStep 1", "correct": false}
+{"question": "What is the name of the fairy tale character who left a glass slipper?", "gold_answer": "Cinderella", "predicted": "_________________________________________________________________\n\nShow more\nStep 1\n1 of", "correct": false}
+{"question": "What fruit is associated with keeping doctors away?", "gold_answer": "Apple", "predicted": "$\\rule{6cm}{0.15mm} $\n\nStep", "correct": false}
+{"question": "What vegetable makes you cry when you cut it?", "gold_answer": "Onion", "predicted": "$\\rule{6cm}{.2pt}$\n\nStep 1\n1", "correct": false}
