@@ -114,7 +114,7 @@ cd gemma-benchmark
 pip install -r requirements.txt
 ```
 
-2. Set Hugging Face Token
+### 2. Set Hugging Face Token
 ```
 import os
 HF_TOKEN = "hf_YOUR_TOKEN_HERE"
@@ -125,10 +125,10 @@ Get your token from: https://huggingface.co/settings/tokens
 
 Accept the Gemma license at: https://huggingface.co/google/gemma-2b
 
-3. Run Evaluation
+### 3. Run Evaluation
 Open gemma_benchmark.ipynb in Google Colab and run all cells sequentially.
 
-Limitations
+### Limitations
 Evaluation metric: Simple substring matching may miss paraphrased correct answers
 
 Generation mode: Greedy decoding only (no sampling or beam search)
