@@ -87,7 +87,7 @@ This counterintuitive result warrants further investigation:
 4. **Future work**: Re-run 7B-IT with 16 tokens on higher-memory hardware
 
 ## Repository Structure
-
+```
 gemma-benchmark/
 ├── README.md
 ├── gemma_benchmark.ipynb # Full evaluation notebook
@@ -102,7 +102,7 @@ gemma-benchmark/
 │ ├── gemma7b_it_fp16_eval_summary.json
 │ └── gemma7b_it_fp16_eval_results.jsonl
 └── requirements.txt
-
+```
 
 ## Usage
 
