@@ -128,7 +128,7 @@ Accept the Gemma license at: https://huggingface.co/google/gemma-2b
 ### 3. Run Evaluation
 Open gemma_benchmark.ipynb in Google Colab and run all cells sequentially.
 
-### Limitations
+## Limitations
 Evaluation metric: Simple substring matching may miss paraphrased correct answers
 
 Generation mode: Greedy decoding only (no sampling or beam search)
@@ -139,7 +139,9 @@ Hardware constraints: 7B-IT required reduced token budget (8 vs 16) on free Cola
 
 Dataset size: 100 questions provides initial signal but larger sets needed for statistical significance
 
-### Citation
+## Citation
+
+```bibtex
 @misc{gemma_benchmark_2026,
   author = {Kanishq Gandharv},
   title = {Gemma Model Comparison: Factual QA Benchmark},
@@ -147,6 +149,7 @@ Dataset size: 100 questions provides initial signal but larger sets needed for s
   publisher = {GitHub},
   url = {https://github.com/KanishqGandharv219/gemma-mini-benchmark}
 }
+```
 
-### License
+## License
 MIT License - See LICENSE file for details
