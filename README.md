@@ -153,3 +153,16 @@ Dataset size: 100 questions provides initial signal but larger sets needed for s
 
 ## License
 MIT License - See LICENSE file for details
+
+## Motivation for GSoC 2026 (Google DeepMind Gemma)
+
+This mini-benchmark was created as preparation for potential Google Summer of Code 2026
+applications involving the Google DeepMind Gemma model family. It demonstrates that I can:
+
+- Load and run multiple Gemma variants (2B/7B, base and instruction-tuned)
+- Build a reproducible evaluation harness on Colab under tight GPU memory limits
+- Log, save, and analyze model performance on a structured QA task
+
+These are the same skills required for Gemma-related GSoC projects focused on benchmarking,
+evaluation tooling, or downstream applications.
+
